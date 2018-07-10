@@ -1,0 +1,14 @@
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.csprojAssemblyReference.cache
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.csproj.CoreCompileInputs.cache
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.RazorAssemblyInfo.cache
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.RazorAssemblyInfo.cs
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.AssemblyInfoInputs.cache
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.AssemblyInfo.cs
+C:\Microsoft Teams\webhookSample\bin\Debug\netcoreapp2.1\webhookSample.deps.json
+C:\Microsoft Teams\webhookSample\bin\Debug\netcoreapp2.1\webhookSample.runtimeconfig.json
+C:\Microsoft Teams\webhookSample\bin\Debug\netcoreapp2.1\webhookSample.runtimeconfig.dev.json
+C:\Microsoft Teams\webhookSample\bin\Debug\netcoreapp2.1\webhookSample.dll
+C:\Microsoft Teams\webhookSample\bin\Debug\netcoreapp2.1\webhookSample.pdb
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.RazorTargetAssemblyInfo.cache
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.dll
+C:\Microsoft Teams\webhookSample\obj\Debug\netcoreapp2.1\webhookSample.pdb
